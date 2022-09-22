@@ -1,2 +1,2 @@
 # Numerical-Analysis
-数值分析python算法实现
+数值分析算法实现
